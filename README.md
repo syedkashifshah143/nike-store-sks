@@ -4,5 +4,4 @@ Nike Store SKS ek modern e-commerce website hai jahan aap Nike ke products dekh 
 
 ## Live Demo
 
-[Click here] (https://vercel.com/syed-kashif-shah/nike-store-sks)
-
+[Click here](https://nike-store-sks.vercel.app/).
