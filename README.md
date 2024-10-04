@@ -1,7 +1,7 @@
-# Shopping Pet Bot
+# Nike Store SKS
 
-This is a shopping pet bot designed to enhance the shopping experience for users.
+Nike Store SKS ek modern e-commerce website hai jahan aap Nike ke products dekh sakte hain aur online purchase kar sakte hain.
 
 ## Live Demo
 
-[Click here](https://shoping-pet-bot.vercel.app/) to see the live demo of the bot.
+Aap is project ka live demo [yahan dekh sakte hain](https://vercel.com/syed-kashif-shah/nike-store-sks)
